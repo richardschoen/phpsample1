@@ -1,3 +1,4 @@
+<!-- This is a comment -->
 <html>
  <head>
   <title>PHP Test</title>
