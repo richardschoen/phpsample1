@@ -7,4 +7,4 @@
  <?php echo "<p>Hello World</p>"; ?> 
  </body>
 </html>
-<!-- This is a comment -->
+<!-- This is a comment. -->
